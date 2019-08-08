@@ -145,13 +145,7 @@ MESSAGE_TAGS = {
   
 }
 
-# Email Config
 
-EMAIL_HOST = 'smtp.gmail.com'
-EMAIL_PORT = 587
-EMAIL_HOST_USER = 'ovikat4life@gmail.com'
-EMAIL_HOST_PASSWORD= '3ka$0vi34'
-EMAIL_USE_TLS=True
 
 
 try:
